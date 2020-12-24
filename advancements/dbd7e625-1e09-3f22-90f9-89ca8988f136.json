@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2020-12-24 13:17:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2020-12-22 11:39:15 +0000"
@@ -212,6 +218,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-12-22 11:41:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2020-12-24 11:49:28 +0000"
     },
     "done": true
   },
@@ -320,6 +332,18 @@
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2020-12-23 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-12-24 13:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-12-24 12:19:56 +0000"
     },
     "done": true
   },
@@ -535,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-12-24 13:19:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2020-12-22 11:39:52 +0000"
@@ -646,6 +676,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-12-22 16:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-12-24 13:13:16 +0000"
     },
     "done": true
   },
@@ -900,6 +936,14 @@
       "has_diamond": "2020-12-22 16:49:24 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:wither": "2020-12-24 13:13:12 +0000",
+      "minecraft:husk": "2020-12-24 13:19:19 +0000",
+      "minecraft:zombie": "2020-12-24 12:23:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
@@ -1267,6 +1311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2020-12-24 11:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-12-22 16:49:19 +0000"
@@ -1573,6 +1623,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2020-12-24 12:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-12-22 13:44:31 +0000"
@@ -1635,10 +1691,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-12-24 12:48:29 +0000",
       "minecraft:desert_hills": "2020-12-22 11:07:07 +0000",
       "minecraft:desert": "2020-12-22 11:02:26 +0000",
       "minecraft:beach": "2020-12-24 04:55:32 +0000",
       "minecraft:river": "2020-12-24 04:55:30 +0000",
+      "minecraft:savanna": "2020-12-24 12:48:19 +0000",
       "minecraft:plains": "2020-12-22 11:00:54 +0000"
     },
     "done": false
@@ -1730,6 +1788,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-12-22 11:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-12-24 13:19:19 +0000"
     },
     "done": true
   },
@@ -1879,6 +1943,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2020-12-24 12:01:02 +0000",
       "minecraft:warped_forest": "2020-12-24 05:00:18 +0000"
     },
     "done": false
