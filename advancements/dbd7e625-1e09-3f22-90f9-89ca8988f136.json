@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-12-25 07:22:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-12-22 11:41:23 +0000"
@@ -435,6 +441,7 @@
     "criteria": {
       "apple": "2020-12-22 15:33:09 +0000",
       "rabbit": "2020-12-22 14:02:31 +0000",
+      "suspicious_stew": "2020-12-25 14:02:45 +0000",
       "carrot": "2020-12-24 06:36:45 +0000"
     },
     "done": false
@@ -496,6 +503,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2020-12-22 11:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-12-25 07:22:10 +0000"
     },
     "done": true
   },
@@ -769,6 +782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-12-25 07:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2020-12-22 14:02:13 +0000"
@@ -955,6 +974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-12-25 07:22:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-12-22 16:49:24 +0000"
@@ -996,6 +1021,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-12-22 11:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-12-25 13:59:07 +0000"
     },
     "done": true
   },
@@ -1305,6 +1336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2020-12-25 16:09:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-22 13:55:01 +0000"
@@ -1326,6 +1363,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2020-12-22 13:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2020-12-25 14:28:06 +0000"
     },
     "done": true
   },
@@ -1404,6 +1447,18 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-12-22 11:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2020-12-25 13:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-12-25 16:09:27 +0000"
     },
     "done": true
   },
@@ -1754,8 +1809,11 @@
       "minecraft:cold_ocean": "2020-12-24 12:48:29 +0000",
       "minecraft:desert_hills": "2020-12-22 11:07:07 +0000",
       "minecraft:desert": "2020-12-22 11:02:26 +0000",
+      "minecraft:deep_lukewarm_ocean": "2020-12-25 16:19:46 +0000",
       "minecraft:beach": "2020-12-24 04:55:32 +0000",
       "minecraft:river": "2020-12-24 04:55:30 +0000",
+      "minecraft:lukewarm_ocean": "2020-12-25 16:18:37 +0000",
+      "minecraft:wooded_hills": "2020-12-25 16:18:25 +0000",
       "minecraft:savanna": "2020-12-24 12:48:19 +0000",
       "minecraft:plains": "2020-12-22 11:00:54 +0000"
     },
@@ -1782,6 +1840,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-12-22 13:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-12-25 16:09:27 +0000"
     },
     "done": true
   },
@@ -1878,6 +1942,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-22 11:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2020-12-25 06:38:21 +0000"
     },
     "done": true
   },
