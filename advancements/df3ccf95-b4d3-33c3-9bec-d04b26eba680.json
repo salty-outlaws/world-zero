@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-12-24 12:24:10 +0000"
@@ -266,6 +272,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2020-12-24 12:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:33:23 +0000"
     },
     "done": true
   },
@@ -559,6 +571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-12-26 05:20:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2020-12-24 04:48:19 +0000"
@@ -640,6 +658,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-12-24 04:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:33:23 +0000"
     },
     "done": true
   },
@@ -760,6 +784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-12-24 12:09:21 +0000"
@@ -796,6 +826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-12-24 04:47:00 +0000"
@@ -817,6 +853,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 12:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:33:23 +0000"
     },
     "done": true
   },
@@ -982,6 +1024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-24 08:49:28 +0000"
@@ -1114,6 +1162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-12-24 04:48:59 +0000"
@@ -1135,6 +1189,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2020-12-24 13:19:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:33:23 +0000"
     },
     "done": true
   },
@@ -1382,6 +1442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-12-24 04:47:08 +0000"
@@ -1463,6 +1529,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-12-25 07:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:33:23 +0000"
     },
     "done": true
   },

@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2020-12-25 19:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-22 11:41:48 +0000"
@@ -14,6 +20,12 @@
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2020-12-23 08:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:19:38 +0000"
     },
     "done": true
   },
@@ -374,6 +386,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2020-12-22 11:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:19:38 +0000"
     },
     "done": true
   },
@@ -746,6 +764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2020-12-25 19:00:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2020-12-22 11:13:50 +0000"
@@ -839,6 +863,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-12-22 13:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:19:38 +0000"
     },
     "done": true
   },
@@ -988,6 +1018,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2020-12-25 17:08:16 +0000",
       "minecraft:wither": "2020-12-24 13:13:12 +0000",
       "minecraft:husk": "2020-12-24 13:19:19 +0000",
       "minecraft:zombie": "2020-12-24 12:23:46 +0000"
@@ -1009,6 +1040,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-12-24 05:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:19:38 +0000"
     },
     "done": true
   },
@@ -1090,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2020-12-25 19:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-22 17:33:02 +0000"
@@ -1099,6 +1142,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2020-12-22 11:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:19:38 +0000"
     },
     "done": true
   },
@@ -1123,6 +1172,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2020-12-22 16:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:19:38 +0000"
     },
     "done": true
   },
@@ -1354,6 +1409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-22 11:41:48 +0000"
@@ -1510,6 +1571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-12-22 11:49:24 +0000"
@@ -1531,6 +1598,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2020-12-22 14:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:19:38 +0000"
     },
     "done": true
   },
@@ -1807,6 +1880,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-12-24 12:48:29 +0000",
+      "minecraft:forest": "2020-12-25 18:06:15 +0000",
       "minecraft:desert_hills": "2020-12-22 11:07:07 +0000",
       "minecraft:desert": "2020-12-22 11:02:26 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-12-25 16:19:46 +0000",
@@ -1882,6 +1956,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-12-22 13:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:19:38 +0000"
     },
     "done": true
   },
@@ -1996,6 +2076,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-12-23 07:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-25 17:19:38 +0000"
     },
     "done": true
   },
@@ -2201,6 +2287,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2020-12-23 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2020-12-25 19:10:16 +0000"
     },
     "done": true
   },
