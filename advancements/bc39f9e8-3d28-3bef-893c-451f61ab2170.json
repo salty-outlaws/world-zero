@@ -4625,6 +4625,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-12-27 09:09:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_the_recipe": "2020-12-26 17:41:57 +0000"
@@ -6669,6 +6675,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_wolfpack": {
+    "criteria": {
+      "wolfpack": "2020-12-27 09:06:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_the_recipe": "2020-12-26 17:41:57 +0000"
@@ -7320,6 +7332,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_the_recipe": "2020-12-26 17:41:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_revolver": {
+    "criteria": {
+      "revolver": "2020-12-27 09:04:21 +0000"
     },
     "done": true
   },

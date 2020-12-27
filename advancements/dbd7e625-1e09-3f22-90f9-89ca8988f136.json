@@ -7426,6 +7426,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_revolver": {
+    "criteria": {
+      "revolver": "2020-12-27 09:06:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_the_recipe": "2020-12-26 17:42:14 +0000"
