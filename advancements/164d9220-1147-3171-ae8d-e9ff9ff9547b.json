@@ -6271,6 +6271,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2020-12-27 16:49:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_the_recipe": "2020-12-26 17:42:09 +0000"
@@ -6538,6 +6544,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2020-12-26 17:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-12-27 16:49:41 +0000"
     },
     "done": true
   },
