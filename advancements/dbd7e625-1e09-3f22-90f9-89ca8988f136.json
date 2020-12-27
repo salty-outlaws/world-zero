@@ -2766,6 +2766,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_pump": {
+    "criteria": {
+      "pump": "2020-12-27 18:06:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-23 18:21:36 +0000"
@@ -2835,6 +2841,12 @@
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_the_recipe": "2020-12-26 17:42:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_chemthrower": {
+    "criteria": {
+      "chemthrower": "2020-12-27 18:08:30 +0000"
     },
     "done": true
   },
@@ -3657,6 +3669,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2020-12-26 17:42:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_railgun": {
+    "criteria": {
+      "railgun": "2020-12-27 17:23:19 +0000"
     },
     "done": true
   },
@@ -6761,6 +6779,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_wolfpack": {
+    "criteria": {
+      "wolfpack": "2020-12-27 17:38:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-12-22 11:22:45 +0000"
@@ -7580,6 +7604,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-12-24 16:44:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "manual": "2020-12-27 17:26:12 +0000"
     },
     "done": true
   },
