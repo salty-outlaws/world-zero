@@ -3629,6 +3629,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_railgun": {
+    "criteria": {
+      "railgun": "2020-12-28 16:23:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2020-12-26 17:41:56 +0000"
