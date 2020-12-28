@@ -1745,6 +1745,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2020-12-28 11:20:26 +0000",
+      "minecraft:warped_forest": "2020-12-28 11:18:03 +0000"
+    },
+    "done": false
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_white": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:15 +0000"
@@ -2006,6 +2013,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-12-28 11:18:02 +0000"
     },
     "done": true
   },
@@ -2741,6 +2754,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-12-28 11:18:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:15 +0000"
@@ -3386,6 +3405,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stairs_treated_wood_vertical": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-12-28 11:17:20 +0000"
     },
     "done": true
   },
@@ -4055,6 +4080,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-12-28 13:07:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:16 +0000"
@@ -4708,6 +4739,12 @@
       "has_the_recipe": "2020-12-27 10:36:16 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2020-12-28 10:58:59 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
@@ -5369,6 +5406,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_windmill": {
+    "criteria": {
+      "windmill": "2020-12-28 13:33:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:16 +0000"
@@ -5486,6 +5529,12 @@
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2020-12-28 10:58:59 +0000"
     },
     "done": true
   },
