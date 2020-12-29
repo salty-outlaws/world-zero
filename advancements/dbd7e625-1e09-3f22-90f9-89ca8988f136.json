@@ -2640,6 +2640,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/mb_dieselgen": {
+    "criteria": {
+      "dieselgenerator": "2020-12-29 08:33:47 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_steel_recycle_steel_legs_from_blasting": {
     "criteria": {
       "has_the_recipe": "2020-12-26 17:42:14 +0000"

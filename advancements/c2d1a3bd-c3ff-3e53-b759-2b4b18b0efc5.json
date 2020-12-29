@@ -725,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2020-12-29 06:39:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:16 +0000"
@@ -2760,6 +2766,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_pump": {
+    "criteria": {
+      "pump": "2020-12-29 09:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:15 +0000"
@@ -3786,6 +3798,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_drill": {
+    "criteria": {
+      "drill": "2020-12-29 12:36:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:16 +0000"
@@ -4748,6 +4766,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:ender_dragon": "2020-12-29 06:39:24 +0000",
+      "minecraft:enderman": "2020-12-29 06:39:44 +0000",
       "minecraft:zombie": "2020-12-28 10:58:59 +0000"
     },
     "done": false
@@ -5073,6 +5093,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_gray_to_slab": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-12-29 06:38:01 +0000"
     },
     "done": true
   },
@@ -5818,6 +5844,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_conveyor": {
+    "criteria": {
+      "basic": "2020-12-29 12:33:55 +0000"
     },
     "done": true
   },
@@ -6763,6 +6795,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "workbench": "2020-12-29 12:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:16 +0000"
@@ -7309,6 +7347,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_buzzsaw": {
+    "criteria": {
+      "buzzsaw": "2020-12-29 12:36:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_steel": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:15 +0000"
@@ -7774,6 +7818,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-12-29 06:38:01 +0000"
     },
     "done": true
   },
