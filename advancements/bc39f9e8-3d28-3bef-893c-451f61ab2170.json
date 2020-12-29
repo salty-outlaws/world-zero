@@ -2735,6 +2735,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_pump": {
+    "criteria": {
+      "pump": "2020-12-29 13:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2020-12-26 17:41:57 +0000"
@@ -7914,6 +7920,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/reinforced_crate": {
     "criteria": {
       "has_the_recipe": "2020-12-26 17:41:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_skyhook": {
+    "criteria": {
+      "skyhook": "2020-12-29 14:31:56 +0000"
     },
     "done": true
   },

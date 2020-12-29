@@ -7473,6 +7473,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2020-12-29 14:57:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:15 +0000"
