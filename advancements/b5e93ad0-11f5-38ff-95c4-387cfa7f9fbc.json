@@ -1764,6 +1764,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2020-12-28 18:00:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/revolver": {
     "criteria": {
       "has_the_recipe": "2020-12-28 09:25:12 +0000"
@@ -3498,6 +3504,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "hammer": "2020-12-28 18:48:23 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_railgun_capacitors": {
     "criteria": {
       "has_the_recipe": "2020-12-28 09:25:12 +0000"
@@ -3609,6 +3621,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_chemthrower_focus": {
     "criteria": {
       "has_the_recipe": "2020-12-28 09:25:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_railgun": {
+    "criteria": {
+      "railgun": "2020-12-28 18:53:57 +0000"
     },
     "done": true
   },
@@ -5530,6 +5548,7 @@
     "criteria": {
       "minecraft:desert_hills": "2020-12-28 09:25:13 +0000",
       "minecraft:desert": "2020-12-28 09:26:17 +0000",
+      "minecraft:savanna_plateau": "2020-12-28 19:24:24 +0000",
       "minecraft:beach": "2020-12-28 10:02:49 +0000",
       "minecraft:river": "2020-12-28 09:41:36 +0000",
       "minecraft:savanna": "2020-12-28 11:43:39 +0000",

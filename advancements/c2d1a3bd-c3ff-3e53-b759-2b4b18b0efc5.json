@@ -2946,6 +2946,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_floodlight": {
+    "criteria": {
+      "floodlight": "2020-12-28 16:54:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:16 +0000"
