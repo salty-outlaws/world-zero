@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2020-12-30 13:55:20 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_constantan_hammering": {
     "criteria": {
       "has_the_recipe": "2020-12-27 10:36:16 +0000"

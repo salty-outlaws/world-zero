@@ -6827,6 +6827,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "workbench": "2020-12-30 08:28:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2020-12-23 07:48:31 +0000"
