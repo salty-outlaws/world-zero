@@ -5461,6 +5461,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2020-12-30 17:11:31 +0000",
       "minecraft:desert_hills": "2020-12-24 17:33:47 +0000",
       "minecraft:desert": "2020-12-24 17:29:20 +0000",
       "minecraft:savanna_plateau": "2020-12-27 15:40:49 +0000",
